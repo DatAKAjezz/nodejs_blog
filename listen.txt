@@ -1,0 +1,2 @@
+// "watch":"node-sass --watch src/resources/scss/ --ouput src/public/css/"//
+//Used to listen to a folder 
